@@ -40,7 +40,7 @@
 //     if (!pos) return 0;
 //     return parseInt(pos.slice(0, -2));
 // };
-// const moveCoin = () => {
+// const moveCoin =() => {
 //     const y = Math.floor(Math.random() * window.innerHeight);
 //     const x = Math.floor(Math.random() * window.innerWidth);
 //     coin.style.top = `${y}px`
